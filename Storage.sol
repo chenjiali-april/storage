@@ -26,3 +26,5 @@ contract Storage {
     }
 }
 1111
+
+0101001010
